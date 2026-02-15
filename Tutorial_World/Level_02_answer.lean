@@ -1,5 +1,7 @@
+-- Date: 2026/02/15
+-- Version: Latest Mathlib
+
 import Mathlib.Tactic
-import Mathlib.Util.Delaborators
 open Nat
 
 
